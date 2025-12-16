@@ -20,7 +20,7 @@ export const Hero: React.FC = () => {
       <div className="absolute inset-0 z-10 pointer-events-none select-none">
         <div className="absolute right-0 top-0 bottom-0 w-full md:w-1/2 overflow-hidden">
           <img
-            src="https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?q=80&w=2070&auto=format&fit=crop"
+            src="/mel-hero.png"
             alt="Joyful people dancing together"
             className="w-full h-full object-cover opacity-40 md:opacity-60 scale-105 hover:scale-100 transition-transform duration-700"
           />
